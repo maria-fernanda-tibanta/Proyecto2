@@ -6,9 +6,9 @@ def creartxt():
 
 def grabartxt():
     archi=open('datos.txt','a')
-    archi.write('Linea 1\n')
-    archi.write('Linea 2\n')
-    archi.write('Linea 3\n')
+    archi.write('Archivo 1\n')
+    archi.write('Archivo 2\n')
+    archi.write('Archivo 3\n')
     archi.close()
 
 def leertxt():
@@ -20,7 +20,6 @@ def leertxt():
     archi.close()
 
 
-     
-
+leertxt()
 creartxt()
 grabartxt()
