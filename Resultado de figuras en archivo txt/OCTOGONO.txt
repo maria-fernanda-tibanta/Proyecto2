@@ -1,0 +1,2 @@
+El perimetro es: 24
+El area es: 31.176914536239792

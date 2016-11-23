@@ -1,0 +1,2 @@
+El perimetro es: 30
+El area es: 90.0

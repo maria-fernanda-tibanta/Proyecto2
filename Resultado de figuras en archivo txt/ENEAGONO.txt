@@ -1,0 +1,2 @@
+El perimetro es: 54
+El area es: 140.29611541307906

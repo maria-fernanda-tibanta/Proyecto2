@@ -1,0 +1,2 @@
+El perimetro es: 18
+El area es: 23.382685902179844

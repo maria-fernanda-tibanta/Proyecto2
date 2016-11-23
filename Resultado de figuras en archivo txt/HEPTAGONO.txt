@@ -1,0 +1,2 @@
+El perimetro es: 14
+El area es: 12.12435565298214
